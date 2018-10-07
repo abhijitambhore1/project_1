@@ -1,0 +1,749 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:03:08.710457 2018] [mpm_winnt:notice] [pid 5304:tid 800] AH00455: Apache/2.4.35 (Win64) configured -- resuming normal operations
+[Sun Oct 07 11:03:08.710457 2018] [mpm_winnt:notice] [pid 5304:tid 800] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Sun Oct 07 11:03:08.710457 2018] [core:notice] [pid 5304:tid 800] AH00094: Command line: 'D:\\abhi\\workspace\\pywps\\apache\\Apache24\\bin\\httpd.exe -d D:/abhi/workspace/pywps/apache/Apache24'
+[Sun Oct 07 11:03:08.761944 2018] [mpm_winnt:notice] [pid 5304:tid 800] AH00418: Parent: Created child process 3056
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:03:11.242730 2018] [mpm_winnt:notice] [pid 3056:tid 152] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 07 11:05:23.697228 2018] [mpm_winnt:notice] [pid 5304:tid 800] AH00424: Parent: Received restart signal -- Restarting the server.
+httpd.exe: Syntax error on line 192 of D:/abhi/workspace/pywps/apache/Apache24/conf/httpd.conf: Cannot load c:/program files/python35/lib/site into server: The specified module could not be found.  
+[Sun Oct 07 11:05:25.707711 2018] [mpm_winnt:notice] [pid 3056:tid 152] AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:10:24.518830 2018] [core:warn] [pid 6544:tid 748] AH00098: pid file D:/abhi/workspace/pywps/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 07 11:10:24.534486 2018] [mpm_winnt:notice] [pid 6544:tid 748] AH00455: Apache/2.4.35 (Win64) configured -- resuming normal operations
+[Sun Oct 07 11:10:24.534486 2018] [mpm_winnt:notice] [pid 6544:tid 748] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Sun Oct 07 11:10:24.534486 2018] [core:notice] [pid 6544:tid 748] AH00094: Command line: 'D:\\abhi\\workspace\\pywps\\apache\\Apache24\\bin\\httpd.exe -d D:/abhi/workspace/pywps/apache/Apache24'
+[Sun Oct 07 11:10:24.584928 2018] [mpm_winnt:notice] [pid 6544:tid 748] AH00418: Parent: Created child process 11680
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:10:26.953158 2018] [mpm_winnt:notice] [pid 11680:tid 720] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 07 11:14:55.568467 2018] [mpm_winnt:notice] [pid 6544:tid 748] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00526: Syntax error on line 197 of D:/abhi/workspace/pywps/apache/Apache24/conf/httpd.conf:
+<Directory "\xe2\x80\x9cD:/abhi/workspace/pywps/apache/Apache24/wsgi-bin\xe2\x80\x9d"> path is invalid.
+[Sun Oct 07 11:14:57.598734 2018] [mpm_winnt:notice] [pid 11680:tid 720] AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:15:43.249884 2018] [core:warn] [pid 7952:tid 748] AH00098: pid file D:/abhi/workspace/pywps/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 07 11:15:43.263784 2018] [mpm_winnt:notice] [pid 7952:tid 748] AH00455: Apache/2.4.35 (Win64) mod_wsgi/4.6.4 Python/3.5 configured -- resuming normal operations
+[Sun Oct 07 11:15:43.263784 2018] [mpm_winnt:notice] [pid 7952:tid 748] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Sun Oct 07 11:15:43.263784 2018] [core:notice] [pid 7952:tid 748] AH00094: Command line: 'D:\\abhi\\workspace\\pywps\\apache\\Apache24\\bin\\httpd.exe -d D:/abhi/workspace/pywps/apache/Apache24'
+[Sun Oct 07 11:15:43.310492 2018] [mpm_winnt:notice] [pid 7952:tid 748] AH00418: Parent: Created child process 12172
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:15:45.899685 2018] [mpm_winnt:notice] [pid 12172:tid 824] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 07 11:16:42.265557 2018] [mpm_winnt:notice] [pid 7952:tid 748] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00526: Syntax error on line 200 of D:/abhi/workspace/pywps/apache/Apache24/conf/httpd.conf:
+Invalid command 'Requre', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Oct 07 11:16:44.282630 2018] [mpm_winnt:notice] [pid 12172:tid 824] AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:19:49.616462 2018] [core:warn] [pid 5500:tid 772] AH00098: pid file D:/abhi/workspace/pywps/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 07 11:19:49.625113 2018] [mpm_winnt:notice] [pid 5500:tid 772] AH00455: Apache/2.4.35 (Win64) mod_wsgi/4.6.4 Python/3.5 configured -- resuming normal operations
+[Sun Oct 07 11:19:49.625113 2018] [mpm_winnt:notice] [pid 5500:tid 772] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Sun Oct 07 11:19:49.625113 2018] [core:notice] [pid 5500:tid 772] AH00094: Command line: 'D:\\abhi\\workspace\\pywps\\apache\\Apache24\\bin\\httpd.exe -d D:/abhi/workspace/pywps/apache/Apache24'
+[Sun Oct 07 11:19:49.666557 2018] [mpm_winnt:notice] [pid 5500:tid 772] AH00418: Parent: Created child process 8456
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:19:52.259948 2018] [mpm_winnt:notice] [pid 8456:tid 808] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 07 11:20:08.973503 2018] [wsgi:error] [pid 8456:tid 1320] [client ::1:55849] mod_wsgi (pid=8456): Exception occurred processing WSGI script 'D:/abhi/workspace/pywps/apache/Apache24/wsgi-bin/wsgi_app.py'.
+[Sun Oct 07 11:20:08.973503 2018] [wsgi:error] [pid 8456:tid 1320] [client ::1:55849] TypeError: sequence of byte string values expected, value of type str found\r
+[Sun Oct 07 11:42:18.025001 2018] [mpm_winnt:notice] [pid 5500:tid 772] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00526: Syntax error on line 418 of D:/abhi/workspace/pywps/apache/Apache24/conf/httpd.conf:
+Invalid command 'Requre', perhaps misspelled or defined by a module not included in the server configuration
+[Sun Oct 07 11:42:20.047266 2018] [mpm_winnt:notice] [pid 8456:tid 808] AH00364: Child: All worker threads have exited.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:43:27.701034 2018] [core:warn] [pid 11964:tid 752] AH00098: pid file D:/abhi/workspace/pywps/apache/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 07 11:43:27.714277 2018] [mpm_winnt:notice] [pid 11964:tid 752] AH00455: Apache/2.4.35 (Win64) mod_wsgi/4.6.4 Python/3.5 configured -- resuming normal operations
+[Sun Oct 07 11:43:27.714277 2018] [mpm_winnt:notice] [pid 11964:tid 752] AH00456: Apache Lounge VC15 Server built: Sep 19 2018 16:08:47
+[Sun Oct 07 11:43:27.714277 2018] [core:notice] [pid 11964:tid 752] AH00094: Command line: 'D:\\abhi\\workspace\\pywps\\apache\\Apache24\\bin\\httpd.exe -d D:/abhi/workspace/pywps/apache/Apache24'
+[Sun Oct 07 11:43:27.761988 2018] [mpm_winnt:notice] [pid 11964:tid 752] AH00418: Parent: Created child process 976
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::58a8:356:440b:5226. Set the 'ServerName' directive globally to suppress this message
+[Sun Oct 07 11:43:30.316755 2018] [mpm_winnt:notice] [pid 976:tid 848] AH00354: Child: Starting 64 worker threads.
+[Sun Oct 07 11:43:52.108867 2018] [wsgi:error] [pid 976:tid 1312] \r
+[Sun Oct 07 11:43:52.471699 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,470 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:43:52.473812 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,472 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:43:52.475474 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,472 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.475474 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,473 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.476473 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,476 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:43:52.476473 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,476 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:43:52.476473 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,476 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.480853 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,476 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.480853 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,480 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:43:52.480853 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,480 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.480853 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,480 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:43:52.484851 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.484851 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,484 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:43:52.484851 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.484851 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,484 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:43:52.484851 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,488 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] )\r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,488 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] )\r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \r
+[Sun Oct 07 11:43:52.488877 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,488 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.492908 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,488 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.492908 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,492 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,493 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,494 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \ttime_end DATETIME, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tmessage VARCHAR, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tstatus INTEGER, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] )\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,494 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \ttime_end DATETIME, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tmessage VARCHAR, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tstatus INTEGER, \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] )\r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \r
+[Sun Oct 07 11:43:52.494938 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \r
+[Sun Oct 07 11:43:52.499107 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,494 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.499107 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,494 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.500102 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,499 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:43:52.500931 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,500 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:43:52.501838 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,501 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.502834 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,501 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:43:52.504546 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,504 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:43:52.505550 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,504 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:43:52.505550 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,504 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.505550 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,505 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.505550 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,505 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:43:52.505550 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,505 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:43:52.518703 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,518 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:43:52.522697 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,522 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:43:52.530724 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:43:52.530724 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] FROM pywps_requests \r
+[Sun Oct 07 11:43:52.530724 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] WHERE pywps_requests.uuid = ?) AS anon_1
+[Sun Oct 07 11:43:52.530724 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] \r
+[Sun Oct 07 11:43:52.534685 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,530 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:43:52.534685 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56038] 2018-10-07 11:43:52,530 INFO sqlalchemy.engine.base.Engine ('299abebe-c9f8-11e8-a6fc-e89eb4201df0',)\r
+[Sun Oct 07 11:43:52.534685 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,534 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:43:52.534685 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:43:52.538699 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] FROM pywps_requests \r
+[Sun Oct 07 11:43:52.538699 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] WHERE pywps_requests.uuid = ?) AS anon_1
+[Sun Oct 07 11:43:52.539298 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] \r
+[Sun Oct 07 11:43:52.540297 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56037] 2018-10-07 11:43:52,539 INFO sqlalchemy.engine.base.Engine ('2995231e-c9f8-11e8-8eed-e89eb4201df0',)\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] )\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] )\r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.484523 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,484 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.488530 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,488 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:13.489093 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,489 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:13.489093 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,489 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.489093 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,489 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:13.489093 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,489 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.491286 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,490 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:13.492285 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,492 INFO sqlalchemy.engine.base.Engine INSERT INTO pywps_requests (uuid, pid, operation, version, time_start, time_end, identifier, message, percent_done, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)\r
+[Sun Oct 07 11:44:13.493281 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,492 INFO sqlalchemy.engine.base.Engine ('364c303e-c9f8-11e8-96ef-e89eb4201df0', 976, 'getcapabilities', '1.0.0', '2018-10-07 11:44:13.483526', None, None, None, None, None)\r
+[Sun Oct 07 11:44:13.493281 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,493 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] )\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] )\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.495306 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,495 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:13.499343 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,499 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:13.501032 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,501 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:13.502034 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,502 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:44:13.502034 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:44:13.502034 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] FROM pywps_requests \r
+[Sun Oct 07 11:44:13.502034 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] WHERE pywps_requests.uuid = ?) AS anon_1
+[Sun Oct 07 11:44:13.502034 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] \r
+[Sun Oct 07 11:44:13.502034 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56039] 2018-10-07 11:44:13,502 INFO sqlalchemy.engine.base.Engine ('364c303e-c9f8-11e8-96ef-e89eb4201df0',)\r
+[Sun Oct 07 11:44:28.873170 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,873 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:28.873170 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,873 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] Exception during reset or similar\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 712, in _finalize_fairy\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     fairy._reset(pool)\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 883, in _reset\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     pool._dialect.do_rollback(self)\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 459, in do_rollback\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     dbapi_connection.rollback()\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 11980 and this is thread id 424
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] Exception closing connection <sqlite3.Connection object at 0x000002028CE32730>\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 712, in _finalize_fairy\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     fairy._reset(pool)\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 883, in _reset\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     pool._dialect.do_rollback(self)\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 459, in do_rollback\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     dbapi_connection.rollback()\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 11980 and this is thread id 424\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] During handling of the above exception, another exception occurred:\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 317, in _close_connection\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     self._dialect.do_close(connection)\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 465, in do_close\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041]     dbapi_connection.close()\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 11980 and this is thread id 424
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,950 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,950 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,950 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,950 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.950726 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,950 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,954 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,954 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] )\r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.954857 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,954 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.955873 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,955 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:28.955873 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,955 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:28.955873 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:28.955873 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:28.955873 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:28.955873 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:28.955873 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] )\r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,956 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,956 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,956 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:28.956587 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,956 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.957618 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,957 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:28.957618 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,957 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.958641 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,957 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:28.958641 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,958 INFO sqlalchemy.engine.base.Engine INSERT INTO pywps_requests (uuid, pid, operation, version, time_start, time_end, identifier, message, percent_done, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)\r
+[Sun Oct 07 11:44:28.958641 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,958 INFO sqlalchemy.engine.base.Engine ('3f787636-c9f8-11e8-876c-e89eb4201df0', 976, 'describeprocess', '1.0.0', '2018-10-07 11:44:28.873170', None, 'say_hello', None, None, None)\r
+[Sun Oct 07 11:44:28.958641 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,958 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:28.962696 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,962 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,966 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] )\r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.966008 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,966 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,967 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,967 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] )\r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.967004 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,967 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.968001 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,968 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:28.968001 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,968 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:28.968998 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,968 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.968998 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,968 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:28.968998 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,968 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:28.971787 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,971 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:28.971787 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,971 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:44:28.971787 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:44:28.971787 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] FROM pywps_requests \r
+[Sun Oct 07 11:44:28.971787 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] WHERE pywps_requests.uuid = ?) AS anon_1
+[Sun Oct 07 11:44:28.971787 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] \r
+[Sun Oct 07 11:44:28.971787 2018] [wsgi:error] [pid 976:tid 1312] [client ::1:56041] 2018-10-07 11:44:28,971 INFO sqlalchemy.engine.base.Engine ('3f787636-c9f8-11e8-876c-e89eb4201df0',)\r
+[Sun Oct 07 11:44:43.726864 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,726 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.726864 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,726 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.726864 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,726 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.730894 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,726 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.731040 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,731 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.731040 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,731 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.731040 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,731 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.731040 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,731 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,732 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,732 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,732 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,732 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,732 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.732061 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,732 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.734747 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,732 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.734747 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,734 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.735633 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,735 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.735633 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,735 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.737648 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,737 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:43.738780 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,738 INFO sqlalchemy.engine.base.Engine INSERT INTO pywps_requests (uuid, pid, operation, version, time_start, time_end, identifier, message, percent_done, status) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)\r
+[Sun Oct 07 11:44:43.739777 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,738 INFO sqlalchemy.engine.base.Engine ('4852f4a2-c9f8-11e8-bfea-e89eb4201df0', 976, 'execute', '1.0.0', '2018-10-07 11:44:43.726864', None, 'say_hello', None, None, None)\r
+[Sun Oct 07 11:44:43.740446 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,739 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.801743 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,801 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.801743 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,801 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.802779 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,801 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.802779 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,802 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.802779 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,802 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.802779 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,802 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.802779 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,802 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.802779 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,802 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.803764 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,803 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.811828 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,811 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:43.813484 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,813 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:44:43.813484 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:44:43.813484 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM pywps_requests \r
+[Sun Oct 07 11:44:43.813484 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] WHERE pywps_requests.percent_done < ? AND pywps_requests.percent_done > ?) AS anon_1
+[Sun Oct 07 11:44:43.813484 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.813484 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,813 INFO sqlalchemy.engine.base.Engine (100, -1)\r
+[Sun Oct 07 11:44:43.815380 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,815 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.815380 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,815 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.816412 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,816 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.816412 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,816 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.816412 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,816 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.816412 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,816 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.816412 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,816 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.816412 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,816 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.817401 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,817 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.821445 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,821 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:43.821445 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,821 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:44:43.821445 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM (SELECT pywps_stored_requests.uuid AS pywps_stored_requests_uuid, pywps_stored_requests.request AS pywps_stored_requests_request \r
+[Sun Oct 07 11:44:43.821445 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM pywps_stored_requests) AS anon_1
+[Sun Oct 07 11:44:43.821445 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.821445 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,821 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.825440 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,825 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.827418 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,825 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.827418 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,827 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.827418 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,827 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.827418 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,827 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.827418 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,827 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.827418 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,827 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,827 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,828 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,828 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.828481 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,828 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,829 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.829534 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.830477 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,829 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.830743 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,830 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.830743 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,830 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.830743 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,830 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.831742 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,831 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.831742 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,831 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.833897 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,833 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:43.834899 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,834 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:44:43.834899 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:44:43.834899 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM pywps_requests \r
+[Sun Oct 07 11:44:43.834899 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] WHERE pywps_requests.uuid = ?) AS anon_1
+[Sun Oct 07 11:44:43.834899 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.834899 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,834 INFO sqlalchemy.engine.base.Engine ('4852f4a2-c9f8-11e8-bfea-e89eb4201df0',)\r
+[Sun Oct 07 11:44:43.896985 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,896 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.896985 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,896 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.896985 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,896 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.896985 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,896 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.896985 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,896 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.896985 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,896 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,901 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,901 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,901 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,901 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,901 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,901 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.901049 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,901 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.905045 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,905 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.905045 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,905 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.905045 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,905 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.905045 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,905 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.905045 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,905 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Exception during reset or similar\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 712, in _finalize_fairy\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     fairy._reset(pool)\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 883, in _reset\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     pool._dialect.do_rollback(self)\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 459, in do_rollback\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     dbapi_connection.rollback()\r
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 424 and this is thread id 11980
+[Sun Oct 07 11:44:43.913880 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Exception closing connection <sqlite3.Connection object at 0x000002028CDD0490>\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 712, in _finalize_fairy\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     fairy._reset(pool)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 883, in _reset\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     pool._dialect.do_rollback(self)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 459, in do_rollback\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     dbapi_connection.rollback()\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 424 and this is thread id 11980\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] During handling of the above exception, another exception occurred:\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 317, in _close_connection\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     self._dialect.do_close(connection)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 465, in do_close\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     dbapi_connection.close()\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 424 and this is thread id 11980
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Exception during reset or similar\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 712, in _finalize_fairy\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     fairy._reset(pool)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 883, in _reset\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     pool._dialect.do_rollback(self)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 459, in do_rollback\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     dbapi_connection.rollback()\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 424 and this is thread id 11980
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Exception closing connection <sqlite3.Connection object at 0x000002028CE59730>\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 712, in _finalize_fairy\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     fairy._reset(pool)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 883, in _reset\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     pool._dialect.do_rollback(self)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 459, in do_rollback\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     dbapi_connection.rollback()\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 424 and this is thread id 11980\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] During handling of the above exception, another exception occurred:\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] Traceback (most recent call last):\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\pool.py", line 317, in _close_connection\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     self._dialect.do_close(connection)\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]   File "c:\\program files\\python35\\lib\\site-packages\\sqlalchemy\\engine\\default.py", line 465, in do_close\r
+[Sun Oct 07 11:44:43.917936 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]     dbapi_connection.close()\r
+[Sun Oct 07 11:44:43.921970 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] sqlite3.ProgrammingError: SQLite objects created in a thread can only be used in that same thread.The object was created in thread id 424 and this is thread id 11980
+[Sun Oct 07 11:44:43.921970 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.921970 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,921 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:43.926054 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,921 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:44:43.926054 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:44:43.926054 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM pywps_requests \r
+[Sun Oct 07 11:44:43.926054 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] WHERE pywps_requests.uuid = ?) AS anon_1
+[Sun Oct 07 11:44:43.926054 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.926054 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,926 INFO sqlalchemy.engine.base.Engine ('4852f4a2-c9f8-11e8-bfea-e89eb4201df0',)\r
+[Sun Oct 07 11:44:43.929399 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,929 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.929399 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,929 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.930607 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,930 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.930607 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,930 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,930 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.931630 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,931 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.935667 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,935 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.935667 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,935 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.935667 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,935 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.935667 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,935 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.935667 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,935 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.935667 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,935 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:43.939790 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,939 INFO sqlalchemy.engine.base.Engine SELECT pywps_stored_requests.uuid AS pywps_stored_requests_uuid, pywps_stored_requests.request AS pywps_stored_requests_request \r
+[Sun Oct 07 11:44:43.939790 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM pywps_stored_requests\r
+[Sun Oct 07 11:44:43.939790 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043]  LIMIT ? OFFSET ?
+[Sun Oct 07 11:44:43.939790 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.939790 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,939 INFO sqlalchemy.engine.base.Engine (1, 0)\r
+[Sun Oct 07 11:44:43.943949 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,943 INFO sqlalchemy.engine.base.Engine SELECT CAST('test plain returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.943949 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,943 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.944946 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,944 INFO sqlalchemy.engine.base.Engine SELECT CAST('test unicode returns' AS VARCHAR(60)) AS anon_1\r
+[Sun Oct 07 11:44:43.944946 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,944 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.945844 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,945 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.945844 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,945 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.945844 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,945 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_stored_requests (\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \trequest BLOB NOT NULL, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] CREATE TABLE pywps_requests (\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tuuid VARCHAR(255) NOT NULL, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpid INTEGER NOT NULL, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \toperation VARCHAR(30) NOT NULL, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tversion VARCHAR(5) NOT NULL, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_start DATETIME NOT NULL, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \ttime_end DATETIME, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tidentifier VARCHAR(255), \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tmessage VARCHAR, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tpercent_done FLOAT, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tstatus INTEGER, \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \tPRIMARY KEY (uuid)\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] )\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.946840 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine COMMIT\r
+[Sun Oct 07 11:44:43.950887 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,946 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_stored_requests")\r
+[Sun Oct 07 11:44:43.951017 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,951 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.951017 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,951 INFO sqlalchemy.engine.base.Engine PRAGMA table_info("pywps_requests")\r
+[Sun Oct 07 11:44:43.951017 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,951 INFO sqlalchemy.engine.base.Engine ()\r
+[Sun Oct 07 11:44:43.956059 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,956 INFO sqlalchemy.engine.base.Engine BEGIN (implicit)\r
+[Sun Oct 07 11:44:43.956059 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,956 INFO sqlalchemy.engine.base.Engine SELECT count(*) AS count_1 \r
+[Sun Oct 07 11:44:43.956059 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM (SELECT pywps_requests.uuid AS pywps_requests_uuid, pywps_requests.pid AS pywps_requests_pid, pywps_requests.operation AS pywps_requests_operation, pywps_requests.version AS pywps_requests_version, pywps_requests.time_start AS pywps_requests_time_start, pywps_requests.time_end AS pywps_requests_time_end, pywps_requests.identifier AS pywps_requests_identifier, pywps_requests.message AS pywps_requests_message, pywps_requests.percent_done AS pywps_requests_percent_done, pywps_requests.status AS pywps_requests_status \r
+[Sun Oct 07 11:44:43.956059 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] FROM pywps_requests \r
+[Sun Oct 07 11:44:43.956059 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] WHERE pywps_requests.uuid = ?) AS anon_1
+[Sun Oct 07 11:44:43.956059 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] \r
+[Sun Oct 07 11:44:43.956059 2018] [wsgi:error] [pid 976:tid 1320] [client ::1:56043] 2018-10-07 11:44:43,956 INFO sqlalchemy.engine.base.Engine ('4852f4a2-c9f8-11e8-bfea-e89eb4201df0',)\r

@@ -1,0 +1,16 @@
+::1 - - [07/Oct/2018:11:03:13 +0530] "GET / HTTP/1.1" 200 46
+::1 - - [07/Oct/2018:11:03:13 +0530] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [07/Oct/2018:11:04:13 +0530] "-" 408 -
+::1 - - [07/Oct/2018:11:10:48 +0530] "GET / HTTP/1.1" 304 -
+::1 - - [07/Oct/2018:11:19:58 +0530] "GET / HTTP/1.1" 304 -
+::1 - - [07/Oct/2018:11:20:08 +0530] "GET /wsgi-bin/ HTTP/1.1" 500 530
+::1 - - [07/Oct/2018:11:21:08 +0530] "-" 408 -
+::1 - - [07/Oct/2018:11:22:31 +0530] "GET /wsgi-bin/ HTTP/1.1" 200 13
+::1 - - [07/Oct/2018:11:23:31 +0530] "-" 408 -
+::1 - - [07/Oct/2018:11:43:34 +0530] "GET /wsgi-bin/ HTTP/1.1" 200 13
+::1 - - [07/Oct/2018:11:43:48 +0530] "GET /pywps HTTP/1.1" 400 476
+::1 - - [07/Oct/2018:11:43:44 +0530] "GET /pywps HTTP/1.1" 400 476
+::1 - - [07/Oct/2018:11:44:13 +0530] "GET /pywps?request=GetCapabilities&service=wps HTTP/1.1" 200 3558
+::1 - - [07/Oct/2018:11:44:28 +0530] "GET /pywps?request=describeProcess&identifier=say_hello&service=WPS&version=1.0.0 HTTP/1.1" 200 1458
+::1 - - [07/Oct/2018:11:44:43 +0530] "GET /pywps?request=Execute&identifier=say_hello&datainputs=name=%22anjali%22&service=WPS&version=1.0.0 HTTP/1.1" 200 1385
+::1 - - [07/Oct/2018:11:45:43 +0530] "-" 408 -
